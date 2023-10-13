@@ -1,0 +1,19 @@
+#player1{
+    width:65%;
+    border-radius: 10px;
+    background-color: white;
+}
+#player2{
+    width:65%;
+    border-radius: 10px;
+    background-color: white;
+}
+body{
+    background: url(download.jpeg);
+    background-size: 100%;
+    
+}
+input{
+    width: 75%;
+    margin-bottom: 4ch;
+}
